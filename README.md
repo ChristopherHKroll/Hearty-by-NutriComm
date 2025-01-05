@@ -42,7 +42,7 @@ This project aims to bridge the gap in accessible, data-driven solutions for hea
 
 - **Machine Learning**: Logistic Regression, Neural Networks (Keras with TensorFlow backend)
 - **Data Analysis**: Python (Jupyter Notebook), Pandas, Scikit-learn, Matplotlib
-- **Visualization**: Tableau, Figma
+- **Visualization**: Figma
 - **App Prototyping**: Streamlabs OBS, QuickTime, iMovie
 - **Development Tools**: Visual Studio Code, Excel
 
@@ -108,4 +108,4 @@ This project was developed by **Mariane de Almeida Alves, Ryan Covill, Dongsuk K
 
 ---
 
-For further information, please refer to the [documentation](docs/README.md) or contact the project team.
+For further information, please contact the project team.
